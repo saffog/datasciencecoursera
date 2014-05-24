@@ -10,7 +10,7 @@ The goal is to tidy the data set from the Human Activity Recognition Using [Smar
 
 Please take a look into CodeBook.md for full explaination of original data set and transformed tidy data set.
 
-The data set can be found at the following URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+The data set can be found at the following URL: [Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ##Usage
 
@@ -20,7 +20,7 @@ The data set can be found at the following URL: http://archive.ics.uci.edu/ml/da
 
 If data is not present, the script will download the dataset from UCI HAR Dataset in the 'data' subfolder and unzip it.
 
-The script will create a file called 'tidyData.txt'.
+The script will create a file: **'tidyData.txt'**.
 
 
 ##References:
